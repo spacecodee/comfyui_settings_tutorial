@@ -4,6 +4,8 @@
 
 #US
 .DS_Store
+ComfyUI/**
+/ComfyUI
 
 # User-specific stuff
 .idea/**/workspace.xml
